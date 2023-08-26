@@ -8,11 +8,11 @@ Neste repositório, vou compartilhar os passos que estou dando para me tornar um
 Fique à vontade para explorar os diferentes diretórios e projetos. Você encontrará uma variedade de coisas, desde pequenos exemplos de código até projetos mais ambiciosos à medida que eu avanço em minha jornada de aprendizado.
 
 Estrutura do Repositório
-📂 Projetos: Aqui, você encontrará projetos práticos que estou construindo para aplicar os conceitos que estou aprendendo.
-📂 Exercícios: Esta é a área onde armazeno exercícios de prática que estou trabalhando para aprimorar minhas habilidades.
-📂 Anotações: Fiz questão de registrar minhas anotações enquanto estudo diferentes tópicos de backend com JavaScript. Fique à vontade para conferir e, se desejar, oferecer insights!
+📂 Projetos: Aqui, você encontrará projetos práticos que estou construindo para aplicar os conceitos que estou aprendendo. <br>
+📂 Exercícios: Esta é a área onde armazeno exercícios de prática que estou trabalhando para aprimorar minhas habilidades.<br>
+📂 Anotações: Fiz questão de registrar minhas anotações enquanto estudo diferentes tópicos de backend com JavaScript. Fique à vontade para conferir e, se desejar, oferecer insights!<br>
 📂 Recursos: Nesta seção, compartilho links, artigos e tutoriais úteis que estou usando como parte do meu processo de aprendizado.
-Como Contribuir
+Como Contribuir<br>
 Se você é um desenvolvedor experiente em backend ou está apenas começando como eu, adoraria receber suas sugestões, feedback e contribuições para este repositório. Sinta-se à vontade para abrir problemas (issues) com sugestões, propor melhorias através de pull requests ou até mesmo apenas para dizer um "olá" e compartilhar suas próprias experiências.
 
 Agradecimento
